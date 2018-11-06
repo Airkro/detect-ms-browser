@@ -1,0 +1,12 @@
+{
+  "name": "detect-ms-browser",
+  "version": "0.0.1",
+  "description": "Microsoft browser version detection in JavaScript",
+  "author": "Eric Chen",
+  "license": "MIT",
+  "main": "./index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/airkro/detect-ms-browser"
+  }
+}
